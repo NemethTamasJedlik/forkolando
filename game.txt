@@ -1,1 +1,2 @@
-ez egy jo jateknak a kodja
+
+javítottam a hibát
